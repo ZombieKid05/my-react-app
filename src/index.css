@@ -1,0 +1,20 @@
+.app-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.logo{
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.link{
+  color: blue;
+  text-decoration: none;
+  font-size: 20px;
+}

@@ -1,0 +1,7 @@
+{
+    "name": "React App",
+    "features": {
+        "ghcr.io/devcontainers/features/github-cli:1": {}
+      }
+    
+}
